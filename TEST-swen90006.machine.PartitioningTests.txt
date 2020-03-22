@@ -1,0 +1,19 @@
+Testsuite: swen90006.machine.PartitioningTests
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.183 sec
+
+Testcase: testRegisterValueFail took 0.008 sec
+Testcase: testRegisterValuePass took 0.001 sec
+Testcase: testAdd took 0.002 sec
+Testcase: testDiv took 0.002 sec
+Testcase: testMul took 0.001 sec
+Testcase: testSub took 0.002 sec
+Testcase: testJmpJz took 0.002 sec
+Testcase: testValueFail took 0.002 sec
+Testcase: testValuePass took 0.001 sec
+Testcase: testRegisterNameFail took 0.002 sec
+Testcase: testRegisterNamePass took 0.001 sec
+Testcase: testDivZero took 0.001 sec
+Testcase: testLdrStr took 0.001 sec
+Testcase: testRetMov took 0.003 sec
+Testcase: testJmpJzZero took 2.004 sec
+Testcase: testJmpJzOne took 0.007 sec

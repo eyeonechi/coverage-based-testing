@@ -1,0 +1,62 @@
+Testsuite: swen90006.machine.BoundaryTests
+Tests run: 55, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.456 sec
+------------- Standard Error -----------------
+Unrecognised instruction: < this is a comment
+Unrecognised instruction: : this is a comment
+------------- ---------------- ---------------
+
+Testcase: testMulOnPoint took 0.007 sec
+Testcase: testAddOffPoint2 took 0.001 sec
+Testcase: testValueOnPoint2 took 0.002 sec
+Testcase: testRegisterNumberOffPoint took 0.003 sec
+Testcase: testValueOffPoint2 took 0.002 sec
+Testcase: testLdrStrNoOpOnPoint2 took 0.002 sec
+Testcase: testDivOffPoint2 took 0.003 sec
+Testcase: testJzZeroOffPoint2 took 0.002 sec
+Testcase: testRegisterSymbolOffPoint2 took 0.001 sec
+Testcase: testJmpJzOffPoint took 0.001 sec
+Testcase: testDivZeroOffPoint2 took 0.002 sec
+Testcase: testJzZeroOnPoint took 0.002 sec
+Testcase: testMovRetOffPoint2 took 0.002 sec
+Testcase: testMulOnPoint2 took 0.002 sec
+Testcase: testRegisterNumberOnPoint took 0.002 sec
+Testcase: testRegisterSymbolOffPoint took 0.004 sec
+Testcase: testLdrStrOffPoint2 took 0.002 sec
+Testcase: testMovRetOnPoint took 0.001 sec
+Testcase: testDivOnPoint2 took 0.004 sec
+Testcase: testLdrStrNoOpOnPoint took 0.002 sec
+Testcase: testLdrStrOnPoint2 took 0.002 sec
+Testcase: testMovRetOffPoint took 0.001 sec
+Testcase: testRegisterSymbolOnPoint took 0.001 sec
+Testcase: testAddOnPoint2 took 0.002 sec
+Testcase: testBlankLineOffPoint took 0.001 sec
+Testcase: testAddOnPoint took 0.002 sec
+Testcase: testSubOffPoint took 0.001 sec
+Testcase: testDivZeroOffPoint took 0.001 sec
+Testcase: testJmpJzOneOnPoint took 0.005 sec
+Testcase: testDivOnPoint took 0.001 sec
+Testcase: testSubOffPoint2 took 0 sec
+Testcase: testValueOnPoint took 0.001 sec
+Testcase: testValueOffPoint took 0.001 sec
+Testcase: testJmpJzOneOffPoint took 0 sec
+Testcase: testLdrStrOnPoint took 0.001 sec
+Testcase: testLdrStrNoOpOffPoint2 took 0.001 sec
+Testcase: testRegisterNumberOnPoint2 took 0.001 sec
+Testcase: testJmpJzOnPoint took 0.001 sec
+Testcase: testCommentOffPoint2 took 0.001 sec
+Testcase: testLdrStrNoOpOffPoint took 0.001 sec
+Testcase: testSubOnPoint took 0.001 sec
+Testcase: testDivZeroOnPoint took 0.001 sec
+Testcase: testCommentOffPoint took 0.001 sec
+Testcase: testJzZeroOffPoint took 0.001 sec
+Testcase: testMulOffPoint took 0.001 sec
+Testcase: testRegisterNumberOffPoint2 took 0.001 sec
+Testcase: testDivOffPoint took 0.001 sec
+Testcase: testCommentOnPoint took 0.001 sec
+Testcase: testJmpJzOffPoint2 took 0.001 sec
+Testcase: testMulOffPoint2 took 0.001 sec
+Testcase: testLdrStrOffPoint took 0.001 sec
+Testcase: testAddOffPoint took 0.001 sec
+Testcase: testJmpJzZero took 2.004 sec
+Testcase: testBlankLineOnPoint took 0.001 sec
+Testcase: testSubOnPoint2 took 0.001 sec
